@@ -1,8 +1,9 @@
 ---
 title: "About me"
 ---
+Hello,
 
+My name is François L'Hoir.
 
-This section also must include: 
-
-- first name/surname, teacher’s name, class name and academic year
+I'm following English for science cours.
+I blong to group 3 and my teacher is Mrs Bouchet.
