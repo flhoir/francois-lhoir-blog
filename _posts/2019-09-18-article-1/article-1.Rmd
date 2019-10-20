@@ -1,12 +1,12 @@
 ---
-title: "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time"
+title: "Article 1 : Old cells, new tricks : important clue to AML diagnosis and treatment discovered"
 author:
-  - name: Nicolas Devilez
-date: 09-18-2019
+  - name: François L'Hoir
+date: 10-20-2019
 categories:
-  - elephant
+  - leukemias
   - track
-preview: image/where-s-my-elephant.jpg
+preview: 
 output:
   distill::distill_article:
     self_contained: false
@@ -15,30 +15,30 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
-
-![ [Credit: Alex Dissanayake Getty Images](https://www.gettyimages.be/detail/foto/dusk-falling-as-elephants-grazing-kenya-stockfotos/187255538) ](image/where-s-my-elephant.jpg)
+## Source
+Science Daily : https://www.sciencedaily.com/releases/2019/08/190801142529.htm 
 
 ## Vocabulary 
 
-| Words from the text | Synonym/explanation in English |
-| ------------------- | ------------------------------ |
-| E.g. To cope with   | To deal with                   |
-|                     | Not too distant future         |
+| Words from text                | Synonym/ explanation in English                                |
+| ------------------------------ | -------------------------------------------------------------- |
+| Acute                          | Opposite of chronic                                            |
+| To crowd                       | To invade                                                      |
+| Bone marrow                    | Tissue inside the bone                                         |
+| Poor outcomes                  | Bad results                                                    |
+| Stem cells                     | Immatures cells that can differenciate into several cell types |
+| Hence                          | Consequently                                                   |
+| Aimed                          | Targeted                                                       |
+| Irrespective of maturate state | No matter the maturate state                                   |
+| Counterpart                    | Correspondent, analogue                                        |
 
 ## Analysis table 
 
-|                              |                                                                     |
-| ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
-| Published in?                | (insert date)                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
-| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
-| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
-
-
-<https://www.scientificamerican.com/article/wheres-my-elephant-high-tech-collars-track-wildlife-in-real-time1/?redirect=1>
-
-
-
+|                               |                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers                   | Professor Ross Dickins (from Australian Center for Blood Disease). Researchers from Australia’s Monash University. Researchers from Walter and Eliza Hall Institute of Medical Research                                                                                                                                                                                                                                      |
+| Published in ?                | August 1, 2019                                                                                                                                                                                                                                                                                                                                                                                                               |
+| General topic ?               | The article presents a new discovery that explains the difficulty of treating acute myeloid leukemia. This disease is one of the most common and aggressive leukemia.                                                                                                                                                                                                                                                        |
+| Procedure/what was examined ? | They used genetically engineered mouse models and human leukemic cells.                                                                                                                                                                                                                                                                                                                                                      |
+| Conclusions/discovery ?       | Acute myeloid leukemia is  a proliferation of immature leukemic cells (leukaemia stem cells). When these cells mature they lose their cancerous properties. Researchers have shown that matures leukemic cells can become immature again then they contribute to development of leukemia and resistance to treatment. This is an important discovery because the main therapeutic strategy is to target only immature cells. |
+| Remaining questions ?         | Now, new therapeutic strategies must be developed that target both mature and immature cells at the same time.                                                                                                                                                                                                                                                                                                               |
