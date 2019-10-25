@@ -1331,6 +1331,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <!--radix_placeholder_article_footer-->
 <div class="article-footer">
   <p class="social_footer">
+    <span class="disqus-comments">
+      <i class="fas fa-comments"></i>
+      &nbsp;
+      <span class="disqus-comment-count" data-disqus-identifier="posts/2019-10-02-nom-de-votre-article/">Comment on this article</span>
+    </span>
     <span class="article-sharing">
       Share: &nbsp;
       <a href="https://twitter.com/share?text=nom-de-votre-article&amp;url=https%3A%2F%2Fflhoir.github.io%2Ffrancois-lhoir-blog%2Fposts%2F2019-10-02-nom-de-votre-article%2F">
@@ -1344,6 +1349,20 @@ document.addEventListener('DOMContentLoaded', function() {
       </a>
     </span>
   </p>
+  <script id="dsq-count-scr" src="https://francoiss-blog.disqus.com/count.js" async></script>
+  <div id="disqus_thread" class="hidden"></div>
+  <script>
+var disqus_config = function () {
+  this.page.url = 'https://flhoir.github.io/francois-lhoir-blog/posts/2019-10-02-nom-de-votre-article/';
+  this.page.identifier = 'posts/2019-10-02-nom-de-votre-article/';
+};
+(function() {
+  var d = document, s = d.createElement('script');
+  s.src = 'https://francoiss-blog.disqus.com/embed.js';
+  s.setAttribute('data-timestamp', +new Date());
+  (d.head || d.body).appendChild(s);
+})();
+</script>
 </div>
 <!--/radix_placeholder_article_footer-->
 </div>
