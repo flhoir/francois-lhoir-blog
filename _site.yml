@@ -14,5 +14,6 @@ navbar:
 base_url: https://flhoir.github.io/francois-lhoir-blog/ 
 collections:
     posts:
+      disqus: francoiss-blog 
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
