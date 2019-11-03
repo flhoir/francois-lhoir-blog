@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## Source
-Science Daily : https://www.sciencedaily.com/releases/2019/08/190801142529.htm 
+UCLA newsroom : http://newsroom.ucla.edu/releases/antibody-eradicates-leukemia-stem-cells 
 
 ## Vocabulary 
 

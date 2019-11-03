@@ -15,7 +15,7 @@
       "track"
     ],
     "preview": {},
-    "last_modified": "2019-11-03T20:08:57+01:00"
+    "last_modified": "2019-11-03T20:12:42+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
@@ -34,5 +34,20 @@
     ],
     "preview": {},
     "last_modified": "2019-10-20T16:41:58+02:00"
+  },
+  {
+    "path": "posts/2019-10-02-article 2/",
+    "title": "nom-de-votre-article",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "François L'Hoir",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-02",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-10-02T11:47:13+02:00"
   }
 ]
