@@ -1,11 +1,12 @@
 ---
-title: "nom-de-votre-article"
-description: |
-  A short description of the post.
+title: "Article 2 : Antibody eradicates leukemia stem cells"
 author:
   - name: François L'Hoir
-    url: {}
-date: 10-02-2019
+date: 11-03-2019
+categories:
+  - leukemias
+  - track
+preview: 
 output:
   distill::distill_article:
     self_contained: false
@@ -15,7 +16,33 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+## Source
+Science Daily : https://www.sciencedaily.com/releases/2019/08/190801142529.htm 
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+## Vocabulary 
+
+| Words from text        | Synonym/ explanation in English |
+| ---------------------- | ------------------------------- |
+| Remain                 | Persist, stay                   |
+| Rely on                | Depend on                       |
+| Brand name             | Trademark name                  |
+| Down the road          | In the future                   |
+| Mashup                 | Fusion                          |
+| Significant likelihood | Important probability           |
+| Wondered               | To ask yourself                 |
+| Whether                | If                              |
+| Recipient              | Receiver                        |
+| Hijacking              | Take control                    |
+| Triggering             | Activating                      |
+
+## Analysis table 
+
+|                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers                   | Dr. John Chute, the study’s senior author and a member of the Eli and Edythe Broad Center of Regenerative Medicine and Stem Cell Research at UCLA.                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Published in ?                | October 15, 2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| General topic ?               | A team of researchers from UCLA develop a new treatement against chronic myelogenous leukemia, using an antibody that blocks a protein called pleiotrophin. This is important because the current treatment doesn’t suppress all leukemia stem cells and there is a risk that cancer will recur if treatment is stopped.                                                                                                                                                                                                                                                                |
+| Procedure/what was examined ? | The researchers studied mice with leukemia presenting or not the pleiotrophin gene. They observed that mice lacking pleiotrophin survived twice as long. Then they transplanted blood stem cells from groups of leukemic mice into healthy mice. They found that mice transplanted with cells lacking pleiotrophin didn’t develop leukemia. They observed that isolated human leukemic stem cells die when pleiotrophin is blocked by antibodies. They showed that the combination of Imatinib and anti-pleiotrophin antibodies eliminates transplanted human leukemic cells into mice. |
+| Conclusions/discovery ?       | The researchers discovered that CML stem cells needed pleiotrophin to survive and proliferate. They developed a new therapy by combining imatinib with anti-pleiotrophin antibodies.                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Remaining questions ?         | The anti-pleiotrophin antibody was used in preclinical studies only and have to be tested in the human.  The researchers have to modify the antibody to make it more similar to human antibodies to prevent rejection by the immune system.                                                                                                                                                                                                                                                                                                                                             |
 
