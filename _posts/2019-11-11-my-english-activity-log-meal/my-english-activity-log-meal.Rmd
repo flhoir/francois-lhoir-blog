@@ -1,11 +1,11 @@
 ---
-title: "nom-de-votre-article"
+title: "My English Activity Log M.E.A.L"
 description: |
   A short description of the post.
 author:
   - name: François L'Hoir
     url: {}
-date: 10-02-2019
+date: 11-11-2019
 output:
   distill::distill_article:
     self_contained: false
@@ -15,7 +15,4 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
-
-Learn more about using Distill at <https://rstudio.github.io/distill>.
-
+Nov. 9th : I read scientific articles on the phylogeny of chaetognaths for the course of molecular phylogeny. It's a bit dificult to understand but it's very interesting.
