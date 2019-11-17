@@ -1,0 +1,51 @@
+---
+title: "Article 3 : Chemotherapy sometimes set the stage for drug-resistant leukemia at relapse "
+author:
+  - name: François L'Hoir
+    url: {}
+date: 11-17-2019
+categories:
+  - leukemias
+  - track
+preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source
+Eurekalert : https://eurekalert.org/pub_releases/2019-11/sjcr-css110119.php
+
+## Vocabulary 
+
+| Words from text                | Synonym/ explanation in English                                 |
+| ------------------------------ | --------------------------------------------------------------- |
+| Therapy-induced                | Caused by the therapy                                           |
+| Prime                          | To prepare                                                      |
+| Relapse                        | A reccurence                                                    |
+| Chair                          | The post of a professor                                         |
+| Underscore                     | To accentuate, to highlight                                     |
+| CAR-T cells                    | Chimeric Antigen Receptor T cell, a cell genetically engineered |
+| Dismal                         | Sad, discouraging                                               |
+| Underwent (to undergo)         | To endure                                                       |
+| FPGS                           | Folylpolyglutamate synthase                                     |
+| Insight into                   | A better understanding                                          |
+| Foregone conclusion            | A sure thing, inevitableness synthase                           |
+
+## Analysis table 
+
+|                               |                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Researchers                   | A team of researchers from St Judes Children’s Research Hospital in   collaboration with a team of Chinese researchers                                                                                                                                                                                                                                                                                 |
+| Published in ?                | November 1, 2019                                                                                                                                                                                                                                                                                                                                                                                       |
+| General topic ?               | The article is about the discovery of chemotherapy-induced mutations that causes drug resistance in patients with acute lymphoblastic leukemia (ALL). These drug-resistant leukemic cells cause relapse.                                                                                                                                                                                               |
+| Procedure/what was examined ? | Researchers followed 103 young patients with ALL. The analysis consisted of sequencing the whole genome of leukemic cells and normal cells collected at the diagnosis and relapse. They also analysed by targeted deep sequencing leukemic cells collected during treatment of 16 patients.                                                                                                            |
+| Conclusions/discovery ?       | Researchers identified relapse-specific mutations in 12 genes involved in drug-response. These mutations are therapy-related because they are only present in genome of ALL relapsed patients but not in other cancer. They showed that relapse is caused by drug-resistant tumor cells. Relapse occurs when leukemic cells acquire treatment-related mutations then drug-resistant cells proliferate. |
+| Remaining questions ?         | Researchers suggest detecting drug-resistance mutations in relapsed patients. This study point the need to develop less toxic and individualized therapies.                                                                                                                                                                                                                                            |
+
+
+
