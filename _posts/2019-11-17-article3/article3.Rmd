@@ -2,7 +2,6 @@
 title: "Article 3 : Chemotherapy sometimes set the stage for drug-resistant leukemia at relapse "
 author:
   - name: François L'Hoir
-    url: {}
 date: 11-17-2019
 categories:
   - leukemia
