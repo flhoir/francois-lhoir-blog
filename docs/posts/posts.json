@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2019-12-01-article-4/",
+    "title": "Article 4 : New approach to treating incurable leukemia in children discovered",
+    "description": {},
+    "author": [
+      {
+        "name": "François L'Hoir",
+        "url": {}
+      }
+    ],
+    "date": "2019-12-01",
+    "categories": [
+      "leukemia"
+    ],
+    "preview": "posts/2019-12-01-article-4/images/chromosome.jpg",
+    "last_modified": "2019-12-01T21:34:54+01:00"
+  },
+  {
     "path": "posts/2019-11-17-article3/",
     "title": "Article 3 : Chemotherapy sometimes set the stage for drug-resistant leukemia at relapse ",
     "description": {},
@@ -11,11 +28,10 @@
     ],
     "date": "2019-11-17",
     "categories": [
-      "leukemias",
-      "track"
+      "leukemia"
     ],
-    "preview": {},
-    "last_modified": "2019-11-17T20:55:33+01:00"
+    "preview": "posts/2019-11-17-article3/images/chimio.jpg",
+    "last_modified": "2019-12-01T21:33:19+01:00"
   },
   {
     "path": "posts/2019-11-11-my-english-activity-log-meal/",
@@ -30,7 +46,7 @@
     "date": "2019-11-11",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-11T19:47:11+01:00"
+    "last_modified": "2019-12-01T22:04:29+01:00"
   },
   {
     "path": "posts/2019-10-02-article-2/",
@@ -44,11 +60,10 @@
     ],
     "date": "2019-11-03",
     "categories": [
-      "leukemias",
-      "track"
+      "leukemia"
     ],
-    "preview": {},
-    "last_modified": "2019-11-11T19:48:12+01:00"
+    "preview": "posts/2019-10-02-article-2/images/antibodies.jpg",
+    "last_modified": "2019-12-01T21:34:08+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
@@ -62,10 +77,9 @@
     ],
     "date": "2019-10-20",
     "categories": [
-      "leukemias",
-      "track"
+      "leukemia"
     ],
-    "preview": {},
-    "last_modified": "2019-10-20T16:41:58+02:00"
+    "preview": "posts/2019-09-18-article-1/image/cells.jpg",
+    "last_modified": "2019-12-01T21:30:01+01:00"
   }
 ]

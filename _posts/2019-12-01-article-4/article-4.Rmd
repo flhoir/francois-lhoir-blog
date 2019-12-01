@@ -1,0 +1,46 @@
+---
+title: "Article 4 : New approach to treating incurable leukemia in children discovered"
+author:
+  - name: François L'Hoir
+date: 12-01-2019
+categories:
+  - leukemia
+preview: images/chromosome.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source
+Science Daily : https://www.sciencedaily.com/releases/2019/11/191125103842.htm 
+
+## Vocabulary 
+
+| Words from text | Synonym/ explanation in English |
+| --------------- | ------------------------------- |
+| Building up     | Accumulating                    |
+| Fusing          | Combining                       |
+| To tackle       | To stop                         |
+| Scrutinizing    | Analysing                       |
+| Disorder        | Illness, disease                |
+| For the purpose | With the objectif of            |
+| To gather       | To assemble                     |
+| Referred        | Mentionned                      |
+| Manage to       | Accomplish                      |
+| Therefore       | Consequently                    |
+| Given that      | Considering that                |
+
+## Analysis table 
+
+|                               |                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers                   | A team of scientists from the University of Zurich and the University Children's Hospital Zurich                                                                                                                                                                                                                                                                                                     |
+| Published in ?                | November 25, 2019                                                                                                                                                                                                                                                                                                                                                                                    |
+| General topic ?               | A team of researchers developed a new targeted therapy against an abnormal protein produced by cancer cells in acute lymphoblastic leukemia.                                                                                                                                                                                                                                                         |
+| Procedure/what was examined ? | Researchers studied the protein TCF3-HLF and the proteins bound to it using the CRISPR/CAS9 method. They have also developped a new substance that kills leukemic cells by administering to mice transplanted with human leukemic cells.                                                                                                                                                             |
+| Conclusions/discovery ?       | Scientists have discovered that the abnormal protein TCF3-HLF binds more than hundred proteins and activates hundreds of genes by mistake. They identified 11 of these proteins that are implicated in the development of leukemia. Researchers have developed a new substance called A-485 that binds and inhibits the protein EP300. The administration of A-485 to mice killed the leukemic cells |
+| Remaining questions ?         | Scientists are continuing their research to develop the best treatment. Other forms of leukemia are caused by similar mechanisms, their work could help identify a common target for anti-cancer treatment.                                                                                                                                                                                          |

@@ -5,9 +5,8 @@ author:
     url: {}
 date: 11-17-2019
 categories:
-  - leukemias
-  - track
-preview: 
+  - leukemia
+preview: images/chimio.jpg
 output:
   distill::distill_article:
     self_contained: false

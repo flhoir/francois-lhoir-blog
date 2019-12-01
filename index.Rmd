@@ -1,5 +1,5 @@
 ---
-title: Leukemias
+title: Research about leukemia
 site: distill::distill_website
 listing: posts
 ---
