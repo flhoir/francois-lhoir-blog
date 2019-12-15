@@ -1,0 +1,46 @@
+---
+title: "article-5 : Researchers revise classification of acute myeloid leukemia and myelodysplastic syndrome"
+author:
+  - name: François L'Hoir
+    url: {}
+date: 12-15-2019
+categories:
+  - leukemia
+preview: images/sequencage.jpg 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## Source
+Medical Xpress : https://medicalxpress.com/news/2019-12-classification-acute-myeloid-leukemia-myelodysplastic.html
+
+## Vocabulary 
+
+| Words from text  | Synonym/ explanation in English |
+| ---------------- | ------------------------------- |
+| Late-breaking    | Last minute                     |
+| Unravel          | To resolve                      |
+| Impaired         | Damaged, defective              |
+| To inform        | To influence                    |
+| To lift the veil | To uncover                      |
+| To struggle with | To fight                        |
+| Piecing together | To assemble                     |
+| Stringent        | Strict, rigorous                |
+| Fueled           | To feed                         |
+| Assessment       | Evaluation                      |
+
+## Analysis table 
+
+|                               |                                                                                                                                                                                                                                                                                                                                                                                         |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers                   | A team of researchers from St. Jude Children's Research Hospital and the Munich Leukemia Laboratory                                                                                                                                                                                                                                                                                     |
+| Published in ?                | December 10, 2019                                                                                                                                                                                                                                                                                                                                                                       |
+| General topic ?               | The article presents the work of a team of researchers who have produced the most precise classification of blood cancers to date.                                                                                                                                                                                                                                                      |
+| Procedure/what was examined ? | The whole genome and the transcriptome of 598 patients with AML and 706 patients with MDS were sequenced.                                                                                                                                                                                                                                                                               |
+| Conclusions/discovery ?       | Researchers have identified sets of mutations involved in the development of acute myeloid leukemia (AML) and myelodisplasic syndrom (MDS). They improved the classification of blood cancers by creating subgroups based on the pattern of mutations, wich explains the differences in response to treatment. With this classification, it is possible to adapt treatment to patients. |
+| Remaining questions ?         | /                                                                                                                                                                                                                                                                                                                                                                                       |
+
