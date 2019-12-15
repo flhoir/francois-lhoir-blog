@@ -1,27 +1,15 @@
 .distill-site-nav {
   color: rgba(255, 255, 255, 0.8);
-  background-color: #268FD7;
+  background-color: #A13636;
   font-size: 15px;
-  font-weight: 300;
-}
-
+  font-weight: 300;}
 .distill-site-nav a {
   color: inherit;
-  text-decoration: none;
-}
-
+  text-decoration: none;}
 .distill-site-nav a:hover {
-  color: white;
-}
-
-.distill-site-header {
-}
-
-.distill-site-footer {
-}
-
+  color: white;}
+.distill-site-header {}
+.distill-site-footer {}
 @media print {
   .distill-site-nav {
-    display: none;
-  }
-}
+    display: none;}}

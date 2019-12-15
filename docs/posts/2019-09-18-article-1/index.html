@@ -1278,6 +1278,24 @@ document.addEventListener('DOMContentLoaded', function() {
   <script src="../../site_libs/webcomponents-2.0.0/webcomponents.js"></script>
   <script src="../../site_libs/distill-2.2.21/template.v2.js"></script>
   <!--radix_placeholder_site_in_header-->
+<style type="text/css">
+.distill-site-nav {
+  color: rgba(255, 255, 255, 0.8);
+  background-color: #A13636;
+  font-size: 15px;
+  font-weight: 300;}
+.distill-site-nav a {
+  color: inherit;
+  text-decoration: none;}
+.distill-site-nav a:hover {
+  color: white;}
+.distill-site-header {}
+.distill-site-footer {}
+@media print {
+  .distill-site-nav {
+    display: none;}}
+
+</style>
 <!--/radix_placeholder_site_in_header-->
 
 
@@ -1428,7 +1446,7 @@ document.addEventListener('DOMContentLoaded', function() {
     </span>
   </p>
   <script id="dsq-count-scr" src="https://francoiss-blog.disqus.com/count.js" async></script>
-  <div id="disqus_thread" class="hidden"></div>
+  <div id="disqus_thread"></div>
   <script>
 var disqus_config = function () {
   this.page.url = 'https://flhoir.github.io/francois-lhoir-blog/posts/2019-09-18-article-1/';

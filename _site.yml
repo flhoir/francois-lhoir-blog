@@ -12,6 +12,10 @@ navbar:
 base_url: https://flhoir.github.io/francois-lhoir-blog/ 
 collections:
     posts:
-      disqus: francoiss-blog
+      disqus: 
+        shortname: "francoiss-blog"
+        hidden: false
       share: [twitter, linkedin, facebook]
-output: distill::distill_article
+output: 
+  distill::distill_article:
+    css: styles.css
