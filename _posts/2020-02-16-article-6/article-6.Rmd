@@ -1,0 +1,43 @@
+---
+title: "Article 6 : Could leukemia be stopped before it starts?"
+author:
+  - name: François L'Hoir
+date: 02-16-2020
+categories:
+  - leukemia
+preview: images/tubes.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source
+Medical Xpress : https://medicalxpress.com/news/2020-02-leukemia.html 
+
+## Vocabulary 
+
+| Words from text | Synonym/ explanation in English      |
+| --------------- | ------------------------------------ |
+| hematopoiesis   | The process of producing blood cells |
+| harmfull        | Bad, catastrophic                    |
+| buildup         | Accumulation, expansion              |
+| Disrupt         | Disturb, break                       |
+| Unharmed        | Intact                               |
+| Launched        | Started                              |
+| Heightened      | Elevated                             |
+
+## Analysis table 
+
+|                               |                                                                                                                                                                                                                            |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers                   | Scott Armstrong, MD, Ph.D., president of the Dana-Farber/Boston Children's Cancer and Blood Disorders Center                                                                                                               |
+| Published in ?                | February 14, 2020                                                                                                                                                                                                          |
+| General topic ?               | The article presents the preclinical studies of a molecule (VTP-50469) that prevent leukemia before it started. Acute myeloid leukemia is caused by 2 genetic « hits » and the new molecule blocks the second hit.         |
+| Procedure/what was examined ? | Researchers worked with mice that had one hit. Mice developed leukemia when researchers introduced the second hit but not when they are also treated with the new compound.                                                |
+| Conclusions/discovery ?       | VTP-50469 disrupts two protein from a complex that activate the development of leukemia. In mice, treatment resulted in a decrease in the number of leukemia cells and even remission in some mice.                        |
+| Remaining questions ?         | Scientists imagine a preventive care model by screening patients at risk and treat them. But they need to know wich mutations are important and they need to have a nontoxic drug that target one of the early mutations.  |
+
