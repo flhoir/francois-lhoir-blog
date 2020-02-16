@@ -1,5 +1,5 @@
 ---
-title: "article-5 : Researchers revise classification of acute myeloid leukemia and myelodysplastic syndrome"
+title: "Article 5 : Researchers revise classification of acute myeloid leukemia and myelodysplastic syndrome"
 author:
   - name: François L'Hoir
     url: {}
