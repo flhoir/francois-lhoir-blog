@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Source
 Medical Xpress : https://medicalxpress.com/news/2020-02-leukemia.html 
 
-## Vocabulary 
+## Vocabulary
 
 | Words from text | Synonym/ explanation in English      |
 | --------------- | ------------------------------------ |
