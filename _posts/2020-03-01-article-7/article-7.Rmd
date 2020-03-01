@@ -1,0 +1,43 @@
+---
+title: "Article 7 : Scientists discover how rogue communications between cells lead to leukemia "
+author:
+  - name: François L'Hoir
+date: 03-01-2020
+categories:
+  - leukemia
+preview: images/membrane.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source
+EurekAlert : https://www.eurekalert.org/pub_releases/2020-02/uoy-sdh020520.php 
+
+## Vocabulary 
+
+| Words from text     | Synonym/ explanation in English                                            |
+| ------------------- | -------------------------------------------------------------------------- |
+| Deciphered          | Decoded, elucidated                                                        |
+| Rogue communication | Deregulated communication                                                  |
+| Prompting           | Inducing, provoking                                                        |
+| Overrun             | Infest, spread over                                                        |
+| Imbalance           | Inequality                                                                 |
+| Platelets           | Thrombocytes, compound of blood which has an important rôle in coagulation |
+| Features            | characteristics                                                            |
+| Cutting-edge        | Innovative, modern                                                         |
+
+## Analysis table 
+
+|                               |                                                                                                                                                                                                                                                                                                                               |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers                   | An international team of scientists, Professor Ian Hitchcock from the York Biomedical Research Institute and the Department of Biology at the University of York, Professor Jacob Piehler from Osnabrück University, Professor Ilpo Vattulainen from the University of Helsinki, Dr. Stephan Wilmes from Osnabrück University |
+| Published in ?                | February 6, 2020                                                                                                                                                                                                                                                                                                              |
+| General topic ?               | A research team analyzed the communication between blood stem cells and discovered a mechanism involved in cell proliferation and the development of leukemia.                                                                                                                                                                |
+| Procedure/what was examined ? | They used super-resolution fluorescent microscopy to observe the cell signal transmission.                                                                                                                                                                                                                                    |
+| Conclusions/discovery ?       | Blood stem cells communicate with each other via cytokines, but mutations allow cells to signal without a cytokine. This uncontrolled signal is responsible for cell proliferation and leukemia.                                                                                                                              |
+| Remaining questions ?         | The study of these mechanisms would make it possible to find a target for a new treatment.                                                                                                                                                                                                                                    |
