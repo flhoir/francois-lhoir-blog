@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-03-15-article-8/",
+    "title": "Article 8 : Discovering cancer drug resistance genes and limiting their effects",
+    "description": {},
+    "author": [
+      {
+        "name": "François L'Hoir",
+        "url": {}
+      }
+    ],
+    "date": "2020-03-15",
+    "categories": [
+      "leukemia"
+    ],
+    "preview": "posts/2020-03-15-article-8/images/adn.jpg",
+    "last_modified": "2020-03-15T21:27:18+01:00"
+  },
+  {
     "path": "posts/2020-03-01-article-7/",
     "title": "Article 7 : Scientists discover how rogue communications between cells lead to leukemia ",
     "description": {},

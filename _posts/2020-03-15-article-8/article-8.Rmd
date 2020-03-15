@@ -1,0 +1,44 @@
+---
+title: "Article 8 : Discovering cancer drug resistance genes and limiting their effects"
+author:
+  - name: François L'Hoir
+date: 03-15-2020
+categories:
+  - leukemia
+preview: images/adn.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source
+Technologynetworks : https://www.technologynetworks.com/cancer-research/news/discovering-cancer-drug-resistance-genes-and-limiting-their-effects-331843 
+
+## Vocabulary 
+
+| Words from text        | Synonym/ explanation in English                                           |
+| ---------------------- | ------------------------------------------------------------------------- |
+| Epigenetic             | Mechanisms that affect gene expression without altering the DNA sequence  |
+| Computational pipeline | An algorithm, a conputer programm                                         |
+| Cutting-edge           | Innovative, modern                                                        |
+| CRISPR gene editing    | A method to modify a DNA sequence                                         |
+| Truncated              | Shorten, cut                                                              |
+| Knock-out              | A genetic technique in which a gene is made inoperative                   |
+| To mitigate            | To reduce                                                                 |
+
+## Analysis table 
+
+|                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers                   | Scientists at the St Jude Children’s Research Hospital  William Evans, Pharm.D., of the St. Jude Department of Pharmaceutical Sciences, Cheng Cheng, Ph.D., of the St. Jude Department of Biostatistics                                                                                                                                                                                                                                         |
+| Published in ?                | March 10, 2020                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| General topic ?               | The article present how scientists developed a new strategy to identify genes implicated in drug resistance in acute lymphoblastic leukemia. They discovered a gene of resistance to glucocorticoids.                                                                                                                                                                                                                                           |
+| Procedure/what was examined ? | Scientists measured six types of genomic and epigenetic features in leukemia cells. They used an algorithm to determinate wich genes are associated with drug resistance and particullarly steroid resistance.                                                                                                                                                                                                                                  |
+| Conclusions/discovery ?       | Researchers have identified a new gene, CELSR2, that is strongly associated with steroid resistance. A decrease of CELSR2 expression in leukemia cells is correlated with increase in steroid resistance. The reduced level of CELSR2 protein causes an accumulation of BCL2 protein that inhibits a cell death pathway. There is a drug that target BCL2. Researchers have shown that mice treated with steroid and this molecule live longer. |
+| Remaining questions ?         | /                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+
