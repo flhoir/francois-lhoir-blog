@@ -1,0 +1,40 @@
+---
+title: "Article 9 : Study reveals properties of cells fated to relapse in acute lymphoblastic leukemia"
+author:
+  - name: François L'Hoir
+date: 03-29-2020
+categories:
+  - leukemia
+preview: images/cellules.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source
+medicalXpress : https://medicalxpress.com/news/2020-03-reveals-properties-cells-fated-relapse.html 
+
+## Vocabulary 
+
+| Words from text         | Synonym/ explanation in English                                          |
+| ----------------------- | ------------------------------------------------------------------------ |
+| Fate                    | destiny                                                                  |
+| Transcriptomic analysis | Analysis of all the RNA molecules produced by a cell                     |
+| Epigenetic              | Mechanisms that affect gene expression without altering the DNA sequence |
+| Xenograft               | Organ transplant between 2 different species                             |
+| harbor                  | To protect, to hide                                                      |
+
+## Analysis table 
+
+|                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers ?                 | Scientists   at St. Jude Children's Research Hospital and Princess Margaret Cancer Centre   in Toronto, Canada                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Published in ?                | March 3, 2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| General topic ?               | The article describes how scientists have identified subpopulations   of leukemic cells that can resist chemotherapy and cause relapse.                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Procedure/what was examined ? | Researchers realised advanced genomic and transcrptomic analysis on   leukemic cells. They also created a mouse model with a xenograft of leukemic   cells derived from patients.                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Conclusions/discovery ?       | Researchers identified and   isolated subclones of leukemic cells they called “Diagnosis Relapse Initiating   clones” (dRI). These cells are presents at the diagnosis and have increased   tolerance to chemotherapy. Genomic analysis shows that dRI have alterations   in epigenetic and metabolic pathways that are responsible for resistance to   treatment. Xenograft allowed to identify rare subclones and study their evolution. Identifying   which subclones are presents and can cause relapse is important for adapting   the patient’s treatment and developing new therapies.   |
+| Remaining questions ?         | The identification of subpopulations of leukemic cells makes it possible   to adapt the treatment of patients at risk.                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |

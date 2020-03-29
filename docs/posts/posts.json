@@ -1,5 +1,39 @@
 [
   {
+    "path": "posts/2020-03-29-article-10/",
+    "title": "Article 10 : 3D genetic structure in blood cancer important beyond DNA code changes ",
+    "description": {},
+    "author": [
+      {
+        "name": "François L'Hoir",
+        "url": {}
+      }
+    ],
+    "date": "2020-03-29",
+    "categories": [
+      "leukemia"
+    ],
+    "preview": "posts/2020-03-29-article-10/images/chromosome.jpg",
+    "last_modified": "2020-03-29T21:39:08+02:00"
+  },
+  {
+    "path": "posts/2020-03-29-article-9/",
+    "title": "Article 9 : Study reveals properties of cells fated to relapse in acute lymphoblastic leukemia",
+    "description": {},
+    "author": [
+      {
+        "name": "François L'Hoir",
+        "url": {}
+      }
+    ],
+    "date": "2020-03-29",
+    "categories": [
+      "leukemia"
+    ],
+    "preview": "posts/2020-03-29-article-9/images/cellules.jpg",
+    "last_modified": "2020-03-29T21:39:31+02:00"
+  },
+  {
     "path": "posts/2020-03-15-article-8/",
     "title": "Article 8 : Discovering cancer drug resistance genes and limiting their effects",
     "description": {},

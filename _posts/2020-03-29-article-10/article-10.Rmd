@@ -1,0 +1,46 @@
+---
+title: "Article 10 : 3D genetic structure in blood cancer important beyond DNA code changes "
+author:
+  - name: François L'Hoir
+date: 03-29-2020
+categories:
+  - leukemia
+preview: images/chromosome.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source
+EurekAlert : https://www.eurekalert.org/pub_releases/2020-03/nlh-3gs031820.php 
+
+## Vocabulary 
+
+| Words from text | Synonym/ explanation in English                                          |
+| --------------- | ------------------------------------------------------------------------ |
+| Twisted         | Deformed                                                                 |
+| Layout          | Physical arrengement, design                                             |
+| Bundles         | Cluster, package                                                         |
+| The job at hand | The future job, anticipated                                              |
+| Tangles         | A mess, something out of order                                           |
+| Snippets        | Fragment                                                                 |
+| Stretch         | Region                                                                   |
+| boundaries      | Limits                                                                   |
+| Onset           | beginning                                                                |
+| Foolproof       | Reliable, infallible                                                     |
+| Hi-C            | High Chromosome Contact map, a technique that study the domains of   DNA |
+
+## Analysis table 
+
+|                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers ?                 | A team of researchers at NYU Grossman School of Medicine : Palaniraja Thandapani, PhD at NYU Langone Health and its Perlmutter Cancer Center, Iannis Aifantis, PhD, the Hermann M. Biggs Professor and chair of the Department of Pathology at NYU Langone and Perlmutter, Aristotelis Tsirigos, PhD, associate professor at NYU Langone and Perlmutter                                                                                                                                                                                                                                         |
+| Published in ?                | March 23, 2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| General topic ?               | Researchers have shown that the 3D structure of DNA has an effect on proliferation of cancer cells in T-cell acute lymphoblastic leukemia.                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Procedure/what was examined ? | They used advanced genomic and imaging techniques, including RNA sequencing and Hi-C. These techniques reveal the 3D structure of DNA and identify actives domains of DNA. Researchers have compared DNA in blood samples of children with leukemia and healthy children.                                                                                                                                                                                                                                                                                                                      |
+| Conclusions/discovery ?       | Genes are regulated by DNA   sequences in their neighborhoods called enhancers. Enhancers regulate gene   expression in their own domain, but scientists have discovered that   modifications in the 3D structures of DNA cause genes to interact with   enhancers from the wrong domain. This result in the proliferation of cancer   cells. Researchers identified the most common changes in activity in NOTCH1   and MYC genes. Drug targeting these genes already exist but are not   foolproof, researchers hypothesize that epigenetic changes are responsible   for treatment failure. |
+| Remaining questions ?         | Researchers want to develop new drugs that correct DNA malformations.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
